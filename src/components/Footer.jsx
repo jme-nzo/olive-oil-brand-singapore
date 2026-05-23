@@ -10,13 +10,13 @@ export default function Footer() {
               Olive Oil Brand <span className="text-gold">Singapore</span>
             </a>
             <p className="max-w-xs text-sm text-linen/65 leading-relaxed">
-              A single-estate tropical olive grove in the heart of Singapore. Cold-pressed,
+              A single-estate tropical olive grove in the heart of Lebanon. Cold-pressed,
               heritage glass, never blended.
             </p>
             <div className="inline-flex w-fit items-center gap-2 rounded-full border border-gold/40 bg-gold/10 px-4 py-2">
               <MapPin size={14} className="text-gold" />
               <span className="font-mono text-[11px] uppercase tracking-[0.3em] text-gold">
-                Locally Harvested in Singapore
+                Locally Harvested in Lebanon
               </span>
             </div>
           </div>

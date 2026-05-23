@@ -17,7 +17,7 @@ export const products = [
     volume: '500ml',
     price: '$62.00',
     notes: 'Almond · Citrus Zest · Honey',
-    image: 'https://images.unsplash.com/photo-1620577873402-d1c4ce9bb70f?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://images.unsplash.com/photo-1571066811602-716837d681de?auto=format&fit=crop&w=1200&q=80',
   },
   {
     id: 'estate-blend',
@@ -27,6 +27,6 @@ export const products = [
     volume: '750ml',
     price: '$54.00',
     notes: 'Tomato Leaf · Green Almond · Sea Salt',
-    image: 'https://images.unsplash.com/photo-1601924928438-94d5a47b8c91?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://images.unsplash.com/photo-1611162616475-46b635cb6868?auto=format&fit=crop&w=1200&q=80',
   },
 ];

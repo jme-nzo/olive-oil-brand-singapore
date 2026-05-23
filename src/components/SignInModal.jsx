@@ -55,7 +55,7 @@ export default function SignInModal({ isOpen, onClose }) {
 
         <div className="relative hidden md:block">
           <img
-            src="https://images.unsplash.com/photo-1601556123240-462c758a929d?auto=format&fit=crop&w=1200&q=80"
+            src="https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?auto=format&fit=crop&w=1200&q=80"
             alt="Olive farm"
             className="h-full w-full object-cover"
           />

@@ -9,13 +9,13 @@ const steps = [
     n: '01',
     title: 'Hand Harvest',
     body: 'Picked at first light when oil polyphenols peak. No machine shake — every olive is selected.',
-    image: 'https://images.unsplash.com/photo-1601566605849-bae3e1ce0b69?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://images.unsplash.com/photo-1611078489935-0cb964de46d6?auto=format&fit=crop&w=1200&q=80',
   },
   {
     n: '02',
     title: 'Cold Press',
     body: 'Pressed within four hours at ≤27°C. Never heated, never refined — only mechanical extraction.',
-    image: 'https://images.unsplash.com/photo-1620577873402-d1c4ce9bb70f?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?auto=format&fit=crop&w=1200&q=80',
   },
   {
     n: '03',

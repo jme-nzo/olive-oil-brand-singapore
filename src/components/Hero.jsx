@@ -40,19 +40,19 @@ export default function Hero() {
         <div className="hero-fade gsap-fade-init flex items-center gap-3">
           <span className="h-px w-10 bg-canopy" />
           <p className="font-mono text-[11px] uppercase tracking-[0.35em] text-canopy">
-            Est. 2019 · Single Estate · Singapore
+            Est. 2019 · Single Estate · Lebanon
           </p>
         </div>
 
         <h1 className="hero-fade gsap-fade-init font-display text-[clamp(3rem,8vw,6.5rem)] leading-[0.95] tracking-tightest text-soil">
           Liquid Gold,
           <span className="block italic text-canopy">grown in the heart</span>
-          <span className="block">of Singapore.</span>
+          <span className="block">of Lebanon.</span>
         </h1>
 
         <p className="hero-fade gsap-fade-init max-w-md text-base leading-relaxed text-soil/70">
-          A first-of-its-kind tropical olive grove. Hand harvested, cold-pressed within four hours,
-          and bottled in heritage glass at our estate near the botanical district.
+          A single-estate Mediterranean olive grove. Hand harvested at dawn, cold-pressed within four
+          hours, and bottled in heritage glass at our estate in the hills above Beirut.
         </p>
 
         <div className="hero-fade gsap-fade-init flex flex-wrap items-center gap-5">
@@ -87,7 +87,7 @@ export default function Hero() {
       <div className="hero-fade gsap-fade-init relative h-[60vh] w-full overflow-hidden rounded-3xl md:h-[85vh]">
         <img
           ref={image}
-          src="https://images.unsplash.com/photo-1605207616227-7e83cb573e26?auto=format&fit=crop&w=1600&q=80"
+          src="https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?auto=format&fit=crop&w=1600&q=80"
           alt="Olive oil pouring from glass bottle"
           className="absolute inset-0 h-full w-full object-cover will-change-transform"
         />

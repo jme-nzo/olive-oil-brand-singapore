@@ -45,27 +45,27 @@ export default function FarmStory() {
         className="parallax-bg absolute inset-0"
         style={{
           backgroundImage:
-            "url(https://images.unsplash.com/photo-1444858345857-66a5ec5290b3?auto=format&fit=crop&w=2200&q=80)",
+            "url(https://images.unsplash.com/photo-1486328228599-85db4443971f?auto=format&fit=crop&w=2200&q=80)",
         }}
       />
       <div className="absolute inset-0 bg-gradient-to-b from-linen via-soil/60 to-soil/85" />
 
       <div className="relative mx-auto flex min-h-[120vh] max-w-5xl flex-col items-center justify-center px-6 py-32 text-center text-linen">
         <p className="farm-quote gsap-fade-init font-mono text-[11px] uppercase tracking-[0.4em] text-gold">
-          The Estate · Botanic District, Singapore
+          The Estate · Mount Lebanon, Lebanon
         </p>
         <div className="farm-line mt-8 h-px w-32 origin-left scale-x-0 bg-gold" />
 
         <h2 className="farm-quote gsap-fade-init mt-10 font-display text-[clamp(2.5rem,6.5vw,5.5rem)] leading-[1.02] tracking-tightest text-linen">
           We were told olives
           <span className="block italic text-gold">would not grow here.</span>
-          <span className="block">We planted them anyway.</span>
+          <span className="block">We flew them in anyway.</span>
         </h2>
 
         <p className="farm-quote gsap-fade-init mt-12 max-w-2xl text-base leading-relaxed text-linen/80 md:text-lg">
-          Twelve hectares of Arbequina and Koroneiki cultivars adapted to our tropical microclimate.
-          We harvest at dawn, press within four hours, and decant into heritage glass — never plastic,
-          never blended with imports. What you taste is exactly what came from the grove.
+          Twelve hectares of Arbequina and Koroneiki cultivars rooted in the Mediterranean microclimate
+          of Mount Lebanon. We harvest at dawn, press within four hours, and decant into heritage glass
+          — never plastic, never blended with imports. What you taste is exactly what came from the grove.
         </p>
 
         <div className="farm-quote gsap-fade-init mt-16 grid w-full max-w-3xl grid-cols-3 gap-6 border-t border-linen/20 pt-10 text-left">
