@@ -1,0 +1,32 @@
+export const products = [
+  {
+    id: 'extra-virgin-reserve',
+    name: 'Extra Virgin Reserve',
+    tagline: 'First cold press · Single harvest',
+    sku: 'OOBS-EVR-500',
+    volume: '500ml',
+    price: '$48.00',
+    notes: 'Grass · Artichoke · Black Pepper',
+    image: 'https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?auto=format&fit=crop&w=1200&q=80',
+  },
+  {
+    id: 'cold-pressed-gold',
+    name: 'Cold-Pressed Gold',
+    tagline: 'Limited harvest · Estate signature',
+    sku: 'OOBS-CPG-500',
+    volume: '500ml',
+    price: '$62.00',
+    notes: 'Almond · Citrus Zest · Honey',
+    image: 'https://images.unsplash.com/photo-1620577873402-d1c4ce9bb70f?auto=format&fit=crop&w=1200&q=80',
+  },
+  {
+    id: 'estate-blend',
+    name: 'Estate Blend',
+    tagline: 'Three groves · One pour',
+    sku: 'OOBS-EST-750',
+    volume: '750ml',
+    price: '$54.00',
+    notes: 'Tomato Leaf · Green Almond · Sea Salt',
+    image: 'https://images.unsplash.com/photo-1601924928438-94d5a47b8c91?auto=format&fit=crop&w=1200&q=80',
+  },
+];
